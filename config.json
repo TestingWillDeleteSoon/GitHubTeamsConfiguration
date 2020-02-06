@@ -2,5 +2,9 @@
  {
   "name":"Team1",
   "description":"Some team"
+ },
+ {
+  "name":"Team2",
+  "description":"Some team 2"
  }
 ]
